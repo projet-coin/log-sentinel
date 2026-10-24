@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.streamlit/secrets.toml
+
+# Ne jamais publier de vrais journaux : seuls les exemples fictifs sont versionnés
+*.log
+!samples/*.log
