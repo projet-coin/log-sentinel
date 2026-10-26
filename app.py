@@ -14,7 +14,7 @@ from sentinel.models import SEVERITIES, SEVERITY_ICONS, SEVERITY_LABELS
 from sentinel.report import escape_md, strip_images, to_json, to_markdown
 
 ROOT = Path(__file__).parent
-REPO_URL = "https://github.com/heumbia2002/log-sentinel"
+REPO_URL = "https://github.com/projet-coin/log-sentinel"
 SAMPLES = {
     "Exemple : serveur SSH (auth.log)": ROOT / "samples" / "auth.log",
     "Exemple : serveur web (access.log)": ROOT / "samples" / "access.log",
