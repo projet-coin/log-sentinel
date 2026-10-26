@@ -1,10 +1,10 @@
 # 🛡️ Log Sentinel
 
-![Tests](https://github.com/heumbia2002/log-sentinel/actions/workflows/tests.yml/badge.svg)
+![Tests](https://github.com/projet-coin/log-sentinel/actions/workflows/tests.yml/badge.svg)
 ![Python](https://img.shields.io/badge/python-3.11%20%7C%203.12-blue)
 ![Licence](https://img.shields.io/badge/licence-MIT-green)
 
-**[Essayer la démo en ligne](https://VOTRE-APP.streamlit.app)** · [English version below](#english)
+**[Essayer la démo en ligne](https://log-sentinel-romaric.streamlit.app)** · [English version below](#english)
 
 Log Sentinel analyse des journaux SSH (`auth.log`) et web (Apache, Nginx), repère les attaques, les relie aux techniques **MITRE ATT&CK** et propose les actions à prendre. Avec une clé API, il rédige aussi un rapport d'incident complet grâce à l'IA (Claude).
 
